@@ -1,4 +1,4 @@
-# autonomous_car_sim_model
+# Autonomous Car Simulator Neuarl Network Model / autonomous_car_sim_model
 
 The goal of this project is to use the open-source [Udacity autonomous car simulator](https://github.com/udacity/self-driving-car-sim) to collect data, and train a neural network to control the simulation in the autonomous mode.
 
